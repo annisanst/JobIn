@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#container{
+    width: 1056px;
+    margin: auto;
+    
+}
+
+.section1, .section2, .section3{
+    padding: 1px 0;
+    list-style: none;
+}
+
+.img1left{
+    width: 100px;
+}
+
+.container-fluid .container {
+    padding-left:0;
+    padding-right:0;
+    display: inline-table;
+
+}
+
+.col{
+    padding: 2%;
+    margin-top: 4px;
+    border-radius: 12px;
+    border: solid 2px grey;
+}
+
+.txt{
+    font-weight: 50;
+    font-size: 16px;
+    color: black;
+}
+
+.txt_judul{
+    font-weight: 50;
+    font-size: 20px;
+    color: black;
+}
+
+.backbut{
+    display: inline;
+    font-weight: 20;
+    font-size: 17px;
+    float: right;
+    margin-right: 1%;
+    padding: 0.5%;
+}
+
+.backbut:hover{
+    background-color: lightgrey;
+}
